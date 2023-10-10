@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1665788402 source:c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\main.cpp
+	<iostream>
+	"listaDinamica.hpp"
+	"menu.hpp"
+
+1665787929 source:c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\date.cpp
+	"date.hpp"
+
+1665787929 c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\date.hpp
+	<string>
+
+1665860774 source:c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\song.cpp
+	"song.hpp"
+
+1665860625 c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\song.hpp
+	<string>
+	<iostream>
+	"date.hpp"
+
+1665861308 c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\listadinamica.hpp
+	<iostream>
+	<string>
+	<exception>
+
+1665788544 c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\menu.hpp
+	<cstdlib>
+	<string>
+	<iostream>
+	"listaDinamica.hpp"
+	"song.hpp"
+	"date.hpp"
+
+1665866254 source:c:\users\vmmo\documents\victor\esctructuras teoría\listadinamica_act9_vmmo\menu.cpp
+	"menu.hpp"
+
